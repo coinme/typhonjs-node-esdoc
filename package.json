@@ -1,0 +1,51 @@
+{
+  "name": "typhonjs-node-esdoc",
+  "version": "0.0.1",
+  "homepage": "https://github.com/typhonjs-node-esdoc/typhonjs-node-esdoc/",
+  "description": "Provides a NPM module combining ESDoc with all plugins available.",
+  "license": "MPL-2.0",
+  "author": {
+    "name": "Mike Leahy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typhonjs-node-esdoc/typhonjs-node-esdoc/typhonjs-node-esdoc.git"
+  },
+  "maintainers": [
+    {
+      "name": "Mike Leahy",
+      "email": "support@js.typhonrt.org"
+    }
+  ],
+  "dependencies": {
+    "esdoc": "^0.4.0",
+    "esdoc-es7-plugin": "^0.0.3",
+    "esdoc-importpath-plugin": "^0.0.1",
+    "esdoc-node-plugin": "^0.2.0",
+    "esdoc-plugin-extends-replace": "^0.4.0",
+    "esdoc-plugin-jspm": "^0.6.0"
+  },
+  "devDependencies": {
+  },
+  "engines" : {
+    "npm" : ">=3.x"
+  },
+  "keywords": [
+    "esdoc",
+    "jspm",
+    "systemjs",
+    "plugin",
+    "document",
+    "documentation",
+    "ES6",
+    "ES2015",
+    "ECMAScript6",
+    "ECMAScript2015"
+  ],
+  "files": [
+  ],
+  "directories": {},
+  "bugs": {
+    "url": "https://github.com/typhonjs-node-esdoc/typhonjs-node-esdoc/issues"
+  }
+}
