@@ -11,6 +11,5 @@ Provides a NPM module combining ESDoc with all plugins available including:
 - [esdoc](https://www.npmjs.com/package/esdoc)
 - [esdoc-es7-plugin](https://www.npmjs.com/package/esdoc-es7-plugin)
 - [esdoc-importpath-plugin](https://www.npmjs.com/package/esdoc-importpath-plugin)
-- [esdoc-node-plugin](https://www.npmjs.com/package/esdoc-node-plugin)
 - [esdoc-plugin-extends-replace](https://www.npmjs.com/package/esdoc-plugin-extends-replace)
 - [esdoc-plugin-jspm](https://www.npmjs.com/package/esdoc-plugin-jspm)
