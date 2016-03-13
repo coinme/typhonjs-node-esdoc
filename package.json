@@ -2,7 +2,7 @@
   "name": "typhonjs-node-esdoc",
   "version": "0.1.0",
   "homepage": "https://github.com/typhonjs-node-esdoc/typhonjs-node-esdoc/",
-  "description": "Provides a NPM module combining ESDoc with all plugins available.",
+  "description": "Provides a NPM module combining ESDoc with all TyphonJS ESDoc plugins available.",
   "license": "MPL-2.0",
   "author": {
     "name": "Mike Leahy"
@@ -19,8 +19,6 @@
   ],
   "dependencies": {
     "esdoc": "^0.4.0",
-    "esdoc-es7-plugin": "^0.0.3",
-    "esdoc-importpath-plugin": "^0.0.1",
     "esdoc-plugin-extends-replace": "^0.4.0",
     "esdoc-plugin-jspm": "^0.6.0"
   },
