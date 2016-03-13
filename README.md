@@ -7,9 +7,7 @@
 
 [![Dependency Status](https://www.versioneye.com/user/projects/56dd5b0dcc9aa0002e9a0db3/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56dd5b0dcc9aa0002e9a0db3)
 
-Provides a NPM module combining ESDoc with all plugins available including:
+Provides a NPM module combining ESDoc with all TyphonJS ESDoc plugins available including:
 - [esdoc](https://www.npmjs.com/package/esdoc)
-- [esdoc-es7-plugin](https://www.npmjs.com/package/esdoc-es7-plugin)
-- [esdoc-importpath-plugin](https://www.npmjs.com/package/esdoc-importpath-plugin)
 - [esdoc-plugin-extends-replace](https://www.npmjs.com/package/esdoc-plugin-extends-replace)
 - [esdoc-plugin-jspm](https://www.npmjs.com/package/esdoc-plugin-jspm)
