@@ -1,6 +1,6 @@
 {
   "name": "typhonjs-node-esdoc",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "https://github.com/typhonjs-node-esdoc/typhonjs-node-esdoc/",
   "description": "Provides a NPM module combining ESDoc with all plugins available.",
   "license": "MPL-2.0",
