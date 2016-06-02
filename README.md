@@ -7,7 +7,13 @@
 
 [![Dependency Status](https://www.versioneye.com/user/projects/56dd5b0dcc9aa0002e9a0db3/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56dd5b0dcc9aa0002e9a0db3)
 
+Requirements: Node v5+ / NPM 3+
+
 Provides a NPM module combining ESDoc with all TyphonJS ESDoc plugins available including:
-- [esdoc](https://www.npmjs.com/package/esdoc)
+- [esdoc](https://github.com/typhonjs-node-esdoc/esdoc): please note this is linking a fork from Github!
+- [esdoc-plugin-dependency-graphs](https://www.npmjs.com/package/esdoc-plugin-dependency-graphs)
+- [esdoc-plugin-enhanced-navigation](https://www.npmjs.com/package/esdoc-plugin-enhanced-navigation)
+- [esdoc-plugin-escomplex](https://www.npmjs.com/package/esdoc-plugin-escomplex)
 - [esdoc-plugin-extends-replace](https://www.npmjs.com/package/esdoc-plugin-extends-replace)
 - [esdoc-plugin-jspm](https://www.npmjs.com/package/esdoc-plugin-jspm)
+- [esdoc-plugin-npm](https://www.npmjs.com/package/esdoc-plugin-npm)
