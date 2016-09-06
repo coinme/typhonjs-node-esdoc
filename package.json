@@ -1,7 +1,7 @@
 {
   "name": "typhonjs-node-esdoc",
   "version": "0.2.1",
-  "homepage": "https://github.com/typhonjs-node-esdoc/typhonjs-node-esdoc/",
+  "homepage": "https://github.com/coinme/typhonjs-node-esdoc/",
   "description": "Provides a NPM module combining ESDoc with all TyphonJS ESDoc plugins available.",
   "license": "MPL-2.0",
   "author": {
@@ -9,16 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/typhonjs-node-esdoc/typhonjs-node-esdoc.git"
+    "url": "https://github.com/coinme/typhonjs-node-esdoc.git"
   },
   "maintainers": [
+    {
+      "name": "Coinme",
+      "email": "support@coinme.com"
+    },
     {
       "name": "Mike Leahy",
       "email": "support@typhonjs.io"
     }
   ],
   "dependencies": {
-    "esdoc": "git+https://git@github.com/typhonjs-node-esdoc/esdoc.git",
+    "esdoc": "git+https://git@github.com/coinme/esdoc.git",
     "esdoc-plugin-dependency-graphs": "^0.1.0",
     "esdoc-plugin-enhanced-navigation": "^0.1.0",
     "esdoc-plugin-escomplex": "^0.1.0",
